@@ -30,7 +30,6 @@ Publish the website in the given URL.
 Figma
 
 ### code:
-
 /* Home Page */
 position: relative;
 width: 360px;
